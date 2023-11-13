@@ -24,8 +24,8 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/mariona-nadal).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/domina-java-colecciones/domina-las-colecciones-en-java
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGfvfvZZobi1w/learning-public-crop_675_1200/0/1699865890983?e=2147483647&v=beta&t=4JXYz5KULlQ9NC1zLazLcaN8R-e171YubhCKG4RrDxA
 
 
 [1]: # (End of ES-Instruction ###############################################################################################)
