@@ -25,7 +25,7 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-java-colecciones/domina-las-colecciones-en-java
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGfvfvZZobi1w/learning-public-crop_675_1200/0/1699865890983?e=2147483647&v=beta&t=4JXYz5KULlQ9NC1zLazLcaN8R-e171YubhCKG4RrDxA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEPV66RP0ci8w/learning-public-crop_675_1200/0/1699871513004?e=2147483647&v=beta&t=1fFQuO-R8gEYBf27hIWryfVLsMCUNPTmooMP20esvrg
 
 
 [1]: # (End of ES-Instruction ###############################################################################################)
